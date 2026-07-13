@@ -1,0 +1,16 @@
+# Project environment
+.venv
+.env
+
+# Logs
+logs
+*.log
+
+# exclude cache
+*.pyc
+__pycache__/
+
+# exclude folders
+temp/
+todo/
+.codewhale/
