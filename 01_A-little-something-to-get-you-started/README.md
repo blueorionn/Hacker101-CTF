@@ -2,7 +2,7 @@
 
 ## Solution
 
-The CTF page source code contain a background image path `background.png`.
+The CTF page source code contain a **background image** inside *style element* `background.png`.
 
 ```html
 
@@ -21,4 +21,4 @@ The CTF page source code contain a background image path `background.png`.
 </html>
 ```
 
-Visit the URL `https://YOUR-LAB-ID.ctf.hacker101.com/background.png` to retrive the flag. It should look something like this `^FLAG^6af4ba2f1335a5be41a43d8cd1f6b97b3ca1e7e043022d0b5f9bf2580da8e57a$FLAG$`.
+Visit the URL `https://YOUR-LAB-ID.ctf.hacker101.com/background.png` to retrive the flag. It should look something like this `^FLAG^YOUR-FLAG-ID$FLAG$`.
